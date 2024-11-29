@@ -1,1 +1,7 @@
-.node_modules
+node_modules
+Action.cy.js
+assertions.cy.js
+cart.cy.js
+Practice1-1.cy.js
+Task3.cy.js
+Task4.cy.js
